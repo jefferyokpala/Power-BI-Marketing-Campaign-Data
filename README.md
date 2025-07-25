@@ -10,7 +10,7 @@ Analysis and visualization the performance of different types of marketing campa
 
 ## Data Source
 
-I obtained this marketing dataset on Kaggle, and it can be found here.
+I obtained this marketing dataset on Kaggle, and it can be found [here](https://www.kaggle.com/datasets/julialy900/marketing-campaign-analysis).
 
 ## Tools
 
